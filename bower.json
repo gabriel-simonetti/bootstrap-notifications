@@ -1,7 +1,7 @@
 {
   "name": "bootstrap-notifications",
   "description": "Notification panel component for Bootstrap framework",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "keywords": [
     "notifications",
     "bootstrap",
@@ -21,8 +21,7 @@
   ],
   "dependencies": {
     "jquery": "~2.0.0",
-    "bootstrap": "~3.3.0",
-    "bootstrap-dropmenu": "~0.9.0"
+    "bootstrap": "~3.3.0"
   },
   "devDependencies": {
     "holderjs": "~2.9.1"

@@ -1,11 +1,11 @@
 {
   "name": "bootstrap-notifications",
   "description": "Notification panel component for Bootstrap framework",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "author": "Martin Staněk",
   "repository": {
     "type": "git",
-    "url": "https://github.com/skywalkapps/bootstrap-notifications"
+    "url": "https://github.com/gabriel-simonetti/bootstrap-notifications"
   },
   "homepage": "https://skywalkapps.github.io/bootstrap-notifications",
   "license": "MIT",
