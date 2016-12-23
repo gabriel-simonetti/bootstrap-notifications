@@ -1,7 +1,7 @@
 {
   "name": "bootstrap-notifications",
   "description": "Notification panel component for Bootstrap framework",
-  "version": "0.9.1",
+  "version": "0.9.2",
   "author": "Martin Staněk",
   "repository": {
     "type": "git",
